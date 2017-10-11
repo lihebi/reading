@@ -1,0 +1,6 @@
+#+TITLE: Reading repository
+
+This repository will contain all repos that I want to read. It serves
+an entry point for emacs to find the repos.
+
+* TODO add a list of interesting repos to bulk download
